@@ -11,7 +11,7 @@ The concept behind the project was to address the issue of luggage theft at airp
 
 The prototype was built using an Arduino for ease of use testing and was designed to be functional and presentable within a strict timeline and small budget. The prototype housing was intentionally designed to be large enough to house the Arduino, wiring, speaker, lighting, and a 9V battery, which wirelessly powers the lock at the moment. The final product design is compact and made of reliable and resilient materials, with an IP68 rating and shock absorption, while also considering modern fashion trends.
 
-<img src="imgs/Prototype_production.jpg" alt="3D case printing" width="400" height="600">
+<img src="imgs/Prototype_production.jpg" alt="3D case printing" width="250" height="600">
 **Production of the 3D printed case.**
 
 <img src="imgs/Completed_prototype.jpg" alt="Prototype case completed" width="400" height="600">
